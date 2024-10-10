@@ -1,0 +1,13 @@
+{
+    "name": "Gift",
+    "alias": "gift",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Gift\\Providers\\GiftServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
